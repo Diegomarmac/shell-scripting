@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# Python wrapper for ls command
+# wrapper en Python del comando ls de Linux
 
 import subprocess
 
