@@ -1,0 +1,4 @@
+*.sql
+*.gz
+*.index
+**/recoveryLog
